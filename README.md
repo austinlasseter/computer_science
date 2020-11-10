@@ -10,3 +10,5 @@ Resources about teaching AP computer science,
 * https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course/frequently-asked-questions/do-i-need-specific-experience-teach-ap-computer-science-principles
 * https://work.chron.com/certified-teach-ap-courses-10351.html
 * https://codehs.com/
+* https://medium.com/@jkeesh
+* https://www.linkedin.com/in/jkeesh/
